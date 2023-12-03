@@ -1,0 +1,46 @@
+.pagination-icon {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 4px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+
+  table{
+
+width:100%;
+margin:0 auto;
+border-spacing: 0 8px;
+border: 1px solid #ccc;
+
+}
+
+
+th,td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; 
+
+}
+
+.selected-row {
+    background-color: #ccc; 
+  }
+
+
+  .icon-box{
+
+    display: inline-block;
+    margin-right: 30px;
+
+    padding: 8px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+
+
+
+
+
+    
+    
+  }
